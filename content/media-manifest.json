@@ -1,0 +1,852 @@
+{
+  "/media/photography/afa/dark.jpg": {
+    "width": 1024,
+    "height": 1280,
+    "orientation": "portrait"
+  },
+  "/media/photography/afa/duo.jpg": {
+    "width": 1024,
+    "height": 1820,
+    "orientation": "portrait"
+  },
+  "/media/photography/afa/group-close.jpg": {
+    "width": 1024,
+    "height": 576,
+    "orientation": "landscape"
+  },
+  "/media/photography/afa/group-wide.jpg": {
+    "width": 1024,
+    "height": 576,
+    "orientation": "landscape"
+  },
+  "/media/photography/afa/group.jpg": {
+    "width": 2400,
+    "height": 1350,
+    "orientation": "landscape"
+  },
+  "/media/photography/afa/lineup.jpg": {
+    "width": 1024,
+    "height": 576,
+    "orientation": "landscape"
+  },
+  "/media/photography/afa/pale.jpg": {
+    "width": 1024,
+    "height": 1280,
+    "orientation": "portrait"
+  },
+  "/media/photography/afa/rust.jpg": {
+    "width": 1024,
+    "height": 1280,
+    "orientation": "portrait"
+  },
+  "/media/photography/afa/walk.jpg": {
+    "width": 1024,
+    "height": 576,
+    "orientation": "landscape"
+  },
+  "/media/photography/aisha-birthday/braids.jpg": {
+    "width": 1024,
+    "height": 1280,
+    "orientation": "portrait"
+  },
+  "/media/photography/aisha-birthday/grass.jpg": {
+    "width": 1024,
+    "height": 1820,
+    "orientation": "portrait"
+  },
+  "/media/photography/aisha-birthday/portrait.jpg": {
+    "width": 1800,
+    "height": 2400,
+    "orientation": "portrait"
+  },
+  "/media/photography/aisha-birthday/seated.jpg": {
+    "width": 1024,
+    "height": 1280,
+    "orientation": "portrait"
+  },
+  "/media/photography/aisha-birthday/smile.jpg": {
+    "width": 1024,
+    "height": 1280,
+    "orientation": "portrait"
+  },
+  "/media/photography/aisha-birthday/walking.jpg": {
+    "width": 1024,
+    "height": 1280,
+    "orientation": "portrait"
+  },
+  "/media/photography/aminat/arms-folded.jpg": {
+    "width": 1024,
+    "height": 1535,
+    "orientation": "portrait"
+  },
+  "/media/photography/aminat/close.jpg": {
+    "width": 1024,
+    "height": 1536,
+    "orientation": "portrait"
+  },
+  "/media/photography/aminat/seated.jpg": {
+    "width": 1601,
+    "height": 2400,
+    "orientation": "portrait"
+  },
+  "/media/photography/aminat/smile.jpg": {
+    "width": 1024,
+    "height": 1535,
+    "orientation": "portrait"
+  },
+  "/media/photography/aminat/standing.jpg": {
+    "width": 1024,
+    "height": 1353,
+    "orientation": "portrait"
+  },
+  "/media/photography/dhikrullah-mueenah/arrivals.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/dhikrullah-mueenah/bride.jpg": {
+    "width": 1024,
+    "height": 1821,
+    "orientation": "portrait"
+  },
+  "/media/photography/dhikrullah-mueenah/canopy.jpg": {
+    "width": 1024,
+    "height": 576,
+    "orientation": "landscape"
+  },
+  "/media/photography/dhikrullah-mueenah/conversation.jpg": {
+    "width": 1024,
+    "height": 640,
+    "orientation": "landscape"
+  },
+  "/media/photography/dhikrullah-mueenah/couple-portrait.jpg": {
+    "width": 2400,
+    "height": 2400,
+    "orientation": "square"
+  },
+  "/media/photography/dhikrullah-mueenah/elder.jpg": {
+    "width": 1024,
+    "height": 640,
+    "orientation": "landscape"
+  },
+  "/media/photography/dhikrullah-mueenah/family.jpg": {
+    "width": 1024,
+    "height": 640,
+    "orientation": "landscape"
+  },
+  "/media/photography/dhikrullah-mueenah/group-portrait.jpg": {
+    "width": 1024,
+    "height": 576,
+    "orientation": "landscape"
+  },
+  "/media/photography/dhikrullah-mueenah/guests.jpg": {
+    "width": 1024,
+    "height": 576,
+    "orientation": "landscape"
+  },
+  "/media/photography/dhikrullah-mueenah/procession.jpg": {
+    "width": 1024,
+    "height": 576,
+    "orientation": "landscape"
+  },
+  "/media/photography/dhikrullah-mueenah/seated-couple.jpg": {
+    "width": 1024,
+    "height": 576,
+    "orientation": "landscape"
+  },
+  "/media/photography/dhikrullah-mueenah/serving.jpg": {
+    "width": 1024,
+    "height": 640,
+    "orientation": "landscape"
+  },
+  "/media/photography/dhikrullah-mueenah/speaker.jpg": {
+    "width": 1024,
+    "height": 1820,
+    "orientation": "portrait"
+  },
+  "/media/photography/edts-2026/care.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/edts-2026/children.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/edts-2026/dance.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/edts-2026/embrace.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/edts-2026/football.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/edts-2026/gathering.jpg": {
+    "width": 1024,
+    "height": 717,
+    "orientation": "landscape"
+  },
+  "/media/photography/edts-2026/group.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/edts-2026/hands.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/edts-2026/red.jpg": {
+    "width": 1024,
+    "height": 1536,
+    "orientation": "portrait"
+  },
+  "/media/photography/edts-2026/speaker.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/edts-2026/supplies.jpg": {
+    "width": 1620,
+    "height": 1080,
+    "orientation": "landscape"
+  },
+  "/media/photography/edts-2026/table.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/edts-2026/volunteers.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/eid-2026/black.jpg": {
+    "width": 1024,
+    "height": 1442,
+    "orientation": "portrait"
+  },
+  "/media/photography/eid-2026/friends.jpg": {
+    "width": 1024,
+    "height": 1308,
+    "orientation": "portrait"
+  },
+  "/media/photography/eid-2026/green.jpg": {
+    "width": 1024,
+    "height": 1442,
+    "orientation": "portrait"
+  },
+  "/media/photography/eid-2026/henna.jpg": {
+    "width": 1024,
+    "height": 754,
+    "orientation": "landscape"
+  },
+  "/media/photography/eid-2026/laughing.jpg": {
+    "width": 1024,
+    "height": 1442,
+    "orientation": "portrait"
+  },
+  "/media/photography/eid-2026/men.jpg": {
+    "width": 1441,
+    "height": 1080,
+    "orientation": "landscape"
+  },
+  "/media/photography/eid-2026/pink.jpg": {
+    "width": 1024,
+    "height": 1824,
+    "orientation": "portrait"
+  },
+  "/media/photography/eid-2026/purple.jpg": {
+    "width": 1024,
+    "height": 1442,
+    "orientation": "portrait"
+  },
+  "/media/photography/eid-2026/red.jpg": {
+    "width": 1024,
+    "height": 727,
+    "orientation": "landscape"
+  },
+  "/media/photography/eid-2026/striped.jpg": {
+    "width": 1024,
+    "height": 1442,
+    "orientation": "portrait"
+  },
+  "/media/photography/eid-2026/teal.jpg": {
+    "width": 1024,
+    "height": 1442,
+    "orientation": "portrait"
+  },
+  "/media/photography/eid-2026/white.jpg": {
+    "width": 1024,
+    "height": 1820,
+    "orientation": "portrait"
+  },
+  "/media/photography/epi-2020/audience.jpg": {
+    "width": 1024,
+    "height": 531,
+    "orientation": "landscape"
+  },
+  "/media/photography/epi-2020/banner-close.jpg": {
+    "width": 1024,
+    "height": 708,
+    "orientation": "landscape"
+  },
+  "/media/photography/epi-2020/banner.jpg": {
+    "width": 1024,
+    "height": 782,
+    "orientation": "landscape"
+  },
+  "/media/photography/epi-2020/bus.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/epi-2020/embrace-bw.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/epi-2020/greeting.jpg": {
+    "width": 1024,
+    "height": 767,
+    "orientation": "landscape"
+  },
+  "/media/photography/epi-2020/group.jpg": {
+    "width": 1024,
+    "height": 641,
+    "orientation": "landscape"
+  },
+  "/media/photography/epi-2020/lecture-hall.jpg": {
+    "width": 1024,
+    "height": 547,
+    "orientation": "landscape"
+  },
+  "/media/photography/epi-2020/listening.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/epi-2020/performer.jpg": {
+    "width": 1024,
+    "height": 891,
+    "orientation": "square"
+  },
+  "/media/photography/epi-2020/sign.jpg": {
+    "width": 1024,
+    "height": 949,
+    "orientation": "square"
+  },
+  "/media/photography/epi-2020/speaker.jpg": {
+    "width": 1024,
+    "height": 793,
+    "orientation": "landscape"
+  },
+  "/media/photography/epi-2020/volunteers.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/fatima/desk.jpg": {
+    "width": 1800,
+    "height": 2400,
+    "orientation": "portrait"
+  },
+  "/media/photography/fatima/lamp.jpg": {
+    "width": 1024,
+    "height": 768,
+    "orientation": "landscape"
+  },
+  "/media/photography/fatima/laptop.jpg": {
+    "width": 1024,
+    "height": 1365,
+    "orientation": "portrait"
+  },
+  "/media/photography/fatima/lean.jpg": {
+    "width": 1024,
+    "height": 1365,
+    "orientation": "portrait"
+  },
+  "/media/photography/fatima/reading.jpg": {
+    "width": 1024,
+    "height": 1365,
+    "orientation": "portrait"
+  },
+  "/media/photography/fatima/smile.jpg": {
+    "width": 1024,
+    "height": 1366,
+    "orientation": "portrait"
+  },
+  "/media/photography/fatima/standing.jpg": {
+    "width": 1024,
+    "height": 1365,
+    "orientation": "portrait"
+  },
+  "/media/photography/fatima/veil.jpg": {
+    "width": 1024,
+    "height": 1366,
+    "orientation": "portrait"
+  },
+  "/media/photography/global-surveyor-day-2/audience.jpg": {
+    "width": 1024,
+    "height": 576,
+    "orientation": "landscape"
+  },
+  "/media/photography/global-surveyor-day-2/check-second.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/global-surveyor-day-2/check.jpg": {
+    "width": 1024,
+    "height": 739,
+    "orientation": "landscape"
+  },
+  "/media/photography/global-surveyor-day-2/conversation.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/global-surveyor-day-2/embrace.jpg": {
+    "width": 1080,
+    "height": 1080,
+    "orientation": "square"
+  },
+  "/media/photography/global-surveyor-day-2/portrait.jpg": {
+    "width": 1024,
+    "height": 1820,
+    "orientation": "portrait"
+  },
+  "/media/photography/global-surveyor-day-2/sashes.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/global-surveyor-day-2/table.jpg": {
+    "width": 1024,
+    "height": 810,
+    "orientation": "landscape"
+  },
+  "/media/photography/harmony-academy-2026/audience.jpg": {
+    "width": 955,
+    "height": 955,
+    "orientation": "square"
+  },
+  "/media/photography/harmony-academy-2026/certificate.jpg": {
+    "width": 839,
+    "height": 1049,
+    "orientation": "portrait"
+  },
+  "/media/photography/harmony-academy-2026/duo.jpg": {
+    "width": 1024,
+    "height": 876,
+    "orientation": "landscape"
+  },
+  "/media/photography/harmony-academy-2026/group.jpg": {
+    "width": 1594,
+    "height": 1063,
+    "orientation": "landscape"
+  },
+  "/media/photography/harmony-academy-2026/hijab-duo.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/harmony-academy-2026/laptop-duo.jpg": {
+    "width": 1024,
+    "height": 576,
+    "orientation": "landscape"
+  },
+  "/media/photography/harmony-academy-2026/laptops.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/harmony-academy-2026/pair.jpg": {
+    "width": 1024,
+    "height": 660,
+    "orientation": "landscape"
+  },
+  "/media/photography/harmony-academy-2026/portrait.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/harmony-academy-2026/volunteer.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/hikmarh/between-shelves.jpg": {
+    "width": 1024,
+    "height": 1021,
+    "orientation": "square"
+  },
+  "/media/photography/hikmarh/book-towers.jpg": {
+    "width": 911,
+    "height": 1605,
+    "orientation": "portrait"
+  },
+  "/media/photography/hikmarh/books-frame.jpg": {
+    "width": 2400,
+    "height": 1800,
+    "orientation": "landscape"
+  },
+  "/media/photography/hikmarh/call.jpg": {
+    "width": 1024,
+    "height": 1364,
+    "orientation": "portrait"
+  },
+  "/media/photography/hikmarh/library-exterior.jpg": {
+    "width": 1024,
+    "height": 1364,
+    "orientation": "portrait"
+  },
+  "/media/photography/hikmarh/library-wide.jpg": {
+    "width": 1024,
+    "height": 1367,
+    "orientation": "portrait"
+  },
+  "/media/photography/hikmarh/reading-chair.jpg": {
+    "width": 1024,
+    "height": 1279,
+    "orientation": "portrait"
+  },
+  "/media/photography/hikmarh/reading.jpg": {
+    "width": 1024,
+    "height": 1366,
+    "orientation": "portrait"
+  },
+  "/media/photography/hikmarh/seated-book.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/hikmarh/shelf.jpg": {
+    "width": 1024,
+    "height": 1279,
+    "orientation": "portrait"
+  },
+  "/media/photography/jcin-unilorin-photoshoot/group-wide.jpg": {
+    "width": 1024,
+    "height": 476,
+    "orientation": "landscape"
+  },
+  "/media/photography/jcin-unilorin-photoshoot/group.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/jcin-unilorin-photoshoot/portrait-blue.jpg": {
+    "width": 1024,
+    "height": 1353,
+    "orientation": "portrait"
+  },
+  "/media/photography/jcin-unilorin-photoshoot/portrait-glasses.jpg": {
+    "width": 1024,
+    "height": 1353,
+    "orientation": "portrait"
+  },
+  "/media/photography/jcin-unilorin-photoshoot/portrait-hijab.jpg": {
+    "width": 1024,
+    "height": 1330,
+    "orientation": "portrait"
+  },
+  "/media/photography/jcin-unilorin-photoshoot/portrait-man.jpg": {
+    "width": 1024,
+    "height": 1730,
+    "orientation": "portrait"
+  },
+  "/media/photography/jcin-unilorin-photoshoot/portrait-navy.jpg": {
+    "width": 1024,
+    "height": 1353,
+    "orientation": "portrait"
+  },
+  "/media/photography/jcin-unilorin-photoshoot/portrait-scarf.jpg": {
+    "width": 1024,
+    "height": 1353,
+    "orientation": "portrait"
+  },
+  "/media/photography/jcin-unilorin-photoshoot/portrait-smile.jpg": {
+    "width": 1024,
+    "height": 1353,
+    "orientation": "portrait"
+  },
+  "/media/photography/jcin-unilorin-photoshoot/portrait-white-wrap.jpg": {
+    "width": 1024,
+    "height": 1353,
+    "orientation": "portrait"
+  },
+  "/media/photography/law-and-sport-week/audience-portrait.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/law-and-sport-week/audience.jpg": {
+    "width": 1024,
+    "height": 601,
+    "orientation": "landscape"
+  },
+  "/media/photography/law-and-sport-week/award.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/law-and-sport-week/guest.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/law-and-sport-week/interview.jpg": {
+    "width": 2400,
+    "height": 2047,
+    "orientation": "landscape"
+  },
+  "/media/photography/law-and-sport-week/medal.jpg": {
+    "width": 1024,
+    "height": 860,
+    "orientation": "landscape"
+  },
+  "/media/photography/law-and-sport-week/speaker-podium.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/law-and-sport-week/speaker-young.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/law-and-sport-week/stage.jpg": {
+    "width": 1024,
+    "height": 1024,
+    "orientation": "square"
+  },
+  "/media/photography/law-and-sport-week/trophy-bw.jpg": {
+    "width": 1024,
+    "height": 683,
+    "orientation": "landscape"
+  },
+  "/media/photography/misturoh/courtyard.jpg": {
+    "width": 1024,
+    "height": 1270,
+    "orientation": "portrait"
+  },
+  "/media/photography/misturoh/dua.jpg": {
+    "width": 1024,
+    "height": 1392,
+    "orientation": "portrait"
+  },
+  "/media/photography/misturoh/full-length.jpg": {
+    "width": 1024,
+    "height": 1386,
+    "orientation": "portrait"
+  },
+  "/media/photography/misturoh/handbag.jpg": {
+    "width": 1024,
+    "height": 1306,
+    "orientation": "portrait"
+  },
+  "/media/photography/misturoh/hands.jpg": {
+    "width": 2274,
+    "height": 2400,
+    "orientation": "square"
+  },
+  "/media/photography/misturoh/ledge.jpg": {
+    "width": 1024,
+    "height": 1386,
+    "orientation": "portrait"
+  },
+  "/media/photography/misturoh/monochrome.jpg": {
+    "width": 1024,
+    "height": 1386,
+    "orientation": "portrait"
+  },
+  "/media/photography/misturoh/outdoors.jpg": {
+    "width": 1024,
+    "height": 1386,
+    "orientation": "portrait"
+  },
+  "/media/photography/misturoh/profile.jpg": {
+    "width": 1024,
+    "height": 1386,
+    "orientation": "portrait"
+  },
+  "/media/photography/misturoh/side-profile.jpg": {
+    "width": 1024,
+    "height": 1386,
+    "orientation": "portrait"
+  },
+  "/media/photography/misturoh/wide-bw.jpg": {
+    "width": 1024,
+    "height": 904,
+    "orientation": "square"
+  },
+  "/media/photography/rofiat/bench.jpg": {
+    "width": 1800,
+    "height": 2400,
+    "orientation": "portrait"
+  },
+  "/media/photography/rofiat/profile.jpg": {
+    "width": 1024,
+    "height": 1365,
+    "orientation": "portrait"
+  },
+  "/media/photography/rofiat/seated.jpg": {
+    "width": 1024,
+    "height": 1365,
+    "orientation": "portrait"
+  },
+  "/media/photography/rofiat/standing.jpg": {
+    "width": 1024,
+    "height": 1126,
+    "orientation": "square"
+  },
+  "/media/photography/zee-diaries/conversation.jpg": {
+    "width": 1024,
+    "height": 1365,
+    "orientation": "portrait"
+  },
+  "/media/photography/zee-diaries/detail.jpg": {
+    "width": 1024,
+    "height": 1365,
+    "orientation": "portrait"
+  },
+  "/media/photography/zee-diaries/listening.jpg": {
+    "width": 1024,
+    "height": 1365,
+    "orientation": "portrait"
+  },
+  "/media/photography/zee-diaries/microphone.jpg": {
+    "width": 1801,
+    "height": 2400,
+    "orientation": "portrait"
+  },
+  "/media/photography/zee-diaries/seated.jpg": {
+    "width": 1024,
+    "height": 1365,
+    "orientation": "portrait"
+  },
+  "/media/photography/zee-diaries/standing.jpg": {
+    "width": 1024,
+    "height": 1365,
+    "orientation": "portrait"
+  },
+  "/media/posters/study-ceremony.jpg": {
+    "width": 1920,
+    "height": 1080,
+    "orientation": "landscape"
+  },
+  "/media/posters/study-community.jpg": {
+    "width": 1920,
+    "height": 1080,
+    "orientation": "landscape"
+  },
+  "/media/posters/study-gathering.jpg": {
+    "width": 1920,
+    "height": 1080,
+    "orientation": "landscape"
+  },
+  "/media/posters/study-light.jpg": {
+    "width": 1080,
+    "height": 1920,
+    "orientation": "portrait"
+  },
+  "/media/textures/hero-afa.jpg": {
+    "width": 900,
+    "height": 506,
+    "orientation": "landscape"
+  },
+  "/media/textures/hero-aisha.jpg": {
+    "width": 900,
+    "height": 1200,
+    "orientation": "portrait"
+  },
+  "/media/textures/hero-bride.jpg": {
+    "width": 900,
+    "height": 1600,
+    "orientation": "portrait"
+  },
+  "/media/textures/hero-children.jpg": {
+    "width": 900,
+    "height": 600,
+    "orientation": "landscape"
+  },
+  "/media/textures/hero-couple.jpg": {
+    "width": 900,
+    "height": 900,
+    "orientation": "square"
+  },
+  "/media/textures/hero-dua.jpg": {
+    "width": 900,
+    "height": 1223,
+    "orientation": "portrait"
+  },
+  "/media/textures/hero-eid-black.jpg": {
+    "width": 900,
+    "height": 1267,
+    "orientation": "portrait"
+  },
+  "/media/textures/hero-eid-men.jpg": {
+    "width": 900,
+    "height": 675,
+    "orientation": "landscape"
+  },
+  "/media/textures/hero-eid-purple.jpg": {
+    "width": 900,
+    "height": 1267,
+    "orientation": "portrait"
+  },
+  "/media/textures/hero-embrace.jpg": {
+    "width": 900,
+    "height": 900,
+    "orientation": "square"
+  },
+  "/media/textures/hero-harmony.jpg": {
+    "width": 900,
+    "height": 600,
+    "orientation": "landscape"
+  },
+  "/media/textures/hero-jcin.jpg": {
+    "width": 900,
+    "height": 600,
+    "orientation": "landscape"
+  },
+  "/media/textures/hero-law.jpg": {
+    "width": 900,
+    "height": 768,
+    "orientation": "landscape"
+  },
+  "/media/textures/hero-library.jpg": {
+    "width": 900,
+    "height": 1201,
+    "orientation": "portrait"
+  },
+  "/media/textures/hero-microphone.jpg": {
+    "width": 900,
+    "height": 1199,
+    "orientation": "portrait"
+  },
+  "/media/textures/hero-portrait.jpg": {
+    "width": 900,
+    "height": 1201,
+    "orientation": "portrait"
+  },
+  "/media/textures/hero-red.jpg": {
+    "width": 900,
+    "height": 1350,
+    "orientation": "portrait"
+  },
+  "/media/textures/hero-side.jpg": {
+    "width": 900,
+    "height": 1218,
+    "orientation": "portrait"
+  }
+}
